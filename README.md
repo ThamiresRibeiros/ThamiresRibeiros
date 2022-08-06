@@ -4,18 +4,18 @@
 <h5>• <strong> 📚 Estudando JavaScript... </strong></h5>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamiresRibeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRibeiros&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ThamiresRibeiros">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamiresRibeiros&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRibeiros&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110689025?s=400&u=6551ec275e6ddf0da7cf97a6ea1d38726d1ebea4&v=4">
+  <img align="center" alt="Thaty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thaty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thaty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Thaty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Thaty-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110689025?s=400&u=6551ec275e6ddf0da7cf97a6ea1d38726d1ebea4&v=4">
 </div>
 
 
