@@ -1,7 +1,7 @@
 <h3>Olá! Muito Prazer me chamo Thamires  👋💕</h3>
 
-<h5>• <strong> 👩🏽‍💻  CIÊNCIA DA COMPUTAÇÃO - UNICSUL</strong></h5>
-<h5>• <strong> 📚  ESTUDANDO JAVASCRIPT...</strong></h5>
+<h5>• <strong> 👩🏽‍💻 Ciência da Computação - UNICSUL</strong></h5>
+<h5>• <strong> 📚 Estudando JavaScript... </strong></h5>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
