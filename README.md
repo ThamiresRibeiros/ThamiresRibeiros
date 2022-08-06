@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/ThamiresRibeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamiresRibeiros&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRibeiros&layout=compact&langs_count=7&theme=kacho_ga"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresRibeiros&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 
 </div>
