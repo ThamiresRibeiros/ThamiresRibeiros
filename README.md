@@ -1,5 +1,8 @@
 <h3>Olá! Muito Prazer me chamo Thamires  👋💕</h3>
 
+• 👩🏽‍💻 <h4><strong> CIÊNCIA DA COMPUTAÇÃO - UNICSUL</strong></h4>
+• 📚 <h4><strong> ESTUDANDO JAVASCRIPT...</strong></h4>
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamiresRibeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
