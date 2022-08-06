@@ -1,8 +1,18 @@
-<h3>Olá! Muito Prazer me chamo Thamires  👋💕</h3>
+<div>
+  <img align="right" alt="Thaty-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110689025?s=400&u=6551ec275e6ddf0da7cf97a6ea1d38726d1ebea4&v=4">
+</div>
+
+<h3>Olá! Muito Prazer me chamo Thamires  👩🏽👋🏽</h3>
 
 <h5>• <strong> 👩🏽‍💻 Ciência da Computação - UNICSUL</strong></h5>
 <h5>• <strong> 📚 Estudando JavaScript... </strong></h5>
+  
 
+
+
+ ##
+ 
+ 
 <div align="center">
   <a href="https://github.com/ThamiresRibeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamiresRibeiros&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
@@ -15,7 +25,6 @@
   <img align="center" alt="Thaty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thaty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thaty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Thaty-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110689025?s=400&u=6551ec275e6ddf0da7cf97a6ea1d38726d1ebea4&v=4">
 </div>
 
 
