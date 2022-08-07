@@ -2,7 +2,7 @@
   <img align="right" alt="Thaty-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/110689025?s=400&u=6551ec275e6ddf0da7cf97a6ea1d38726d1ebea4&v=4">
 </div>
 
-<h1>Olá! Muito Prazer me chamo Thamires  👩🏽👋🏽</h1>
+<h3>Olá! Muito Prazer me chamo Thamires  👩🏽👋🏽</h3>
 
 <h5>• <strong> 👩🏽‍💻 Ciência da Computação - UNICSUL</strong></h5>
 <h5>• <strong> 📚 Estudando JavaScript... </strong></h5>
