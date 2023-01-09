@@ -21,7 +21,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-       com:
+       with:
           target_branch: saída
           build_dir: dist
           color_snake: #8dbdff
